@@ -5,7 +5,7 @@
 
 ```python
 def about_me():
-    pass  # 👨‍💻 Desenvolvedor Full Stack com experiência em sistemas distribuídos e processamento de dados, usando tecnologias como Python, TypeScript e AWS.
+    pass  # 👨‍💻 Full Stack Developer with experience in distributed systems and data processing, using technologies such as React, Python, TypeScript and AWS.
 ```
 
 🎓 Education
@@ -96,9 +96,9 @@ def statistics():
   <details>
   <summary> Click here to toggle... </summary><br>
 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Hakai17&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="60%"/><br><br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Hakai17&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" width="60%"/><br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakai17&layout=compact&langs_count=7&theme=dark" width="60%"/><br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakai17&layout=compact&langs_count=7&theme=highcontrast" width="60%"/><br></br>
   </details>
 </div><br>
 
